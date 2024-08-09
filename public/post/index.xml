@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Lambert</title>
-        <link>https://demo.stack.jimmycai.com/post/</link>
-        <description>Recent content in Posts on Lambert</description>
+        <title>Posts on LambertLin</title>
+        <link>https://lambertalpha.github.io/CV-template/post/</link>
+        <description>Recent content in Posts on LambertLin</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-tw</language><atom:link href="https://demo.stack.jimmycai.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>zh-tw</language><atom:link href="https://lambertalpha.github.io/CV-template/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About me</title>
-        <link>https://demo.stack.jimmycai.com/about-me/</link>
+        <link>https://lambertalpha.github.io/CV-template/about-me/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/about-me/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/about-me/cover.jpg" alt="Featured image of post About me" /&gt;&lt;h2 id=&#34;font-color9fb6cd关于我font&#34;&gt;&lt;font color=9FB6CD&gt;关于我&lt;/font&gt;
+        <guid>https://lambertalpha.github.io/CV-template/about-me/</guid>
+        <description>&lt;img src="https://lambertalpha.github.io/CV-template/about-me/cover.jpg" alt="Featured image of post About me" /&gt;&lt;h2 id=&#34;font-color9fb6cd关于我font&#34;&gt;&lt;font color=9FB6CD&gt;关于我&lt;/font&gt;
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:LambertLin0511@outlook.com&#34; &gt;LambertLin0511@outlook.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/LambertAlpha&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;Github&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
