@@ -14,8 +14,6 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 [**Github**](https://github.com/LambertAlpha)
 
-[**Xiaohongshu**](https://www.xiaohongshu.com/user/profile/5b5d6dcb4eacab68d69ce167)
-
 [**X(Twitter)**](https://x.com/lnby669438)
 
 ## <font color=9FB6CD>教育经历</font>
