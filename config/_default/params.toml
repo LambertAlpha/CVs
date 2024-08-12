@@ -19,7 +19,7 @@ subtitle = "an undergraduate in SJTU"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/yeye.png"
+src = "img/cat1.jpg"
 
 [article]
 headingAnchor = false
