@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/CV-template/about-me/</loc>
+    <loc>https://lambertalpha.github.io/CV/about-me/</loc>
   </url><url>
-    <loc>http://localhost:1313/CV-template/</loc>
+    <loc>https://lambertalpha.github.io/CV/</loc>
   </url><url>
-    <loc>http://localhost:1313/CV-template/categories/</loc>
+    <loc>https://lambertalpha.github.io/CV/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/CV-template/post/</loc>
+    <loc>https://lambertalpha.github.io/CV/post/</loc>
   </url><url>
-    <loc>http://localhost:1313/CV-template/tags/</loc>
+    <loc>https://lambertalpha.github.io/CV/tags/</loc>
   </url>
 </urlset>
