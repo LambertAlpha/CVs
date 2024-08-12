@@ -1,50 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>LambertLin</title>
-        <link>https://example.org/</link>
-        <description>Recent content on LambertLin</description>
+        <title>Jessica</title>
+        <link>https://lambertalpha.github.io/CVs/</link>
+        <description>Recent content on Jessica</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-tw</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>zh-cn</language><atom:link href="https://lambertalpha.github.io/CVs/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About me</title>
-        <link>https://example.org/about-me/</link>
+        <link>https://lambertalpha.github.io/CVs/about-me/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/about-me/</guid>
-        <description>&lt;img src="https://example.org/about-me/cover.jpg" alt="Featured image of post About me" /&gt;&lt;h2 id=&#34;font-color9fb6cd关于我font&#34;&gt;&lt;font color=9FB6CD&gt;关于我&lt;/font&gt;
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:LambertLin0511@outlook.com&#34; &gt;LambertLin0511@outlook.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/LambertAlpha&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://lambertalpha.github.io/CVs/about-me/</guid>
+        <description>&lt;img src="https://lambertalpha.github.io/CVs/about-me/cover.jpg" alt="Featured image of post About me" /&gt;&lt;h2 id=&#34;font-color9fb6cd关于我font&#34;&gt;&lt;font color=9FB6CD&gt;关于我&lt;/font&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:Jessica@example.com&#34; &gt;Jessica@example.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;Github&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://x.com/lnby669438&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://x.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;X(Twitter)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;font-color9fb6cd教育经历font&#34;&gt;&lt;font color=9FB6CD&gt;教育经历&lt;/font&gt;
-&lt;/h2&gt;&lt;p&gt;本科大二在读 · 大数据科学与技术专业 · 香港中文大学（深圳）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;GPA: 3.93 / 4.00&lt;/strong&gt;          &lt;strong&gt;专业排名: 10 / 145&lt;/strong&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;本科大四在读 · 计算机专业 · 上海交通大学&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GPA: 3.94 / 4.00&lt;/strong&gt;          &lt;strong&gt;专业排名: 10 / 145&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;font-color9fb6cd学术能力font&#34;&gt;&lt;font color=9FB6CD&gt;学术能力&lt;/font&gt;
-&lt;/h2&gt;&lt;p&gt;•	&lt;strong&gt;课程学习&lt;/strong&gt;：微积分、线性代数、概率统计、最优化、机器学习、数据结构&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;•	&lt;strong&gt;课程学习&lt;/strong&gt;：微积分、线性代数、概率统计、最优化、机器学习、数据结构、期货与期权等&lt;/p&gt;
 &lt;p&gt;•	&lt;strong&gt;编程语言&lt;/strong&gt;：熟练使用Python, R, Solidity, Javascript等编程语言&lt;/p&gt;
 &lt;p&gt;•	&lt;strong&gt;软件应用&lt;/strong&gt;：精通使用Office三件套, Wind, ChatGPT, Google, github, git等工具&lt;/p&gt;
 &lt;h2 id=&#34;font-color9fb6cd项目经历font&#34;&gt;&lt;font color=9FB6CD&gt;项目经历&lt;/font&gt;
-&lt;/h2&gt;&lt;h4 id=&#34;worldquant全球量化比赛全球前5-------emspemsp---------------20244-20246&#34;&gt;Worldquant全球量化比赛—全球前5%                        2024.4-2024.6
-&lt;/h4&gt;&lt;p&gt;•	荣获因子优秀奖。&lt;/p&gt;
-&lt;p&gt;•	基于国内外大量文献和研究报告，成功代码复现并优化了多个Alpha因子&lt;/p&gt;
-&lt;p&gt;•	引入基于STR的排名分数作为信号指标，成功将因子夏普率从1.15提升至2.87，以及实现年收益率19.8%、回撤5.69%。&lt;/p&gt;
-&lt;h4 id=&#34;数字孪生科研--------------------emspemsp-------------------------------------20246-至今&#34;&gt;数字孪生科研                                                           2024.6-至今
-&lt;/h4&gt;&lt;p&gt;•	在黄教授的指导下，对数字孪生技术进行深入研究，查阅并整理了大量基础资料和文献，理解其基础框架流程。&lt;/p&gt;
-&lt;p&gt;•	撰写数字孪生技术研究报告，并进行研究成果的演示汇报。&lt;/p&gt;
-&lt;h4 id=&#34;python游戏开发--------------------emspemsp------------------------------20243-20245&#34;&gt;Python游戏开发                                                    2024.3-2024.5
+&lt;/h2&gt;&lt;h4 id=&#34;font-color9fb6cd智能图书馆管理系统开发-----emspemsp---------------20244-20248font&#34;&gt;&lt;font color=9FB6CD&gt;智能图书馆管理系统开发                      2024.4-2024.8&lt;/font&gt;
+&lt;/h4&gt;&lt;p&gt;•	作为项目负责人参与开发一个旨在提高图书馆关系效率的系统，包括书籍借阅、归还和库存等功能。&lt;/p&gt;
+&lt;p&gt;•	使用Python, Django, MySOL, Git等工具进行开发，成功实现了一个用户友好的Web界面，并通过自动化减少了图书馆工作人员的工作量。&lt;/p&gt;
+&lt;h4 id=&#34;font-color9fb6cdpython游戏开发--------------------emspemsp-----------20243-20245font&#34;&gt;&lt;font color=9FB6CD&gt;Python游戏开发                                 2024.3-2024.5&lt;/font&gt;
 &lt;/h4&gt;&lt;p&gt;•	利用Python的turtle库进行游戏开发，设计直观的GUI交互界面。&lt;/p&gt;
 &lt;p&gt;•	引入时间监控模块，使用户能够动态控制游戏进程，提升了用户体验。&lt;/p&gt;
-&lt;h4 id=&#34;广东省数学建模比赛--组长-优秀奖------------emspemsp---------------------------20215-20215&#34;&gt;广东省数学建模比赛&amp;ndash;组长 优秀奖                                         2021.5-2021.5
+&lt;h4 id=&#34;font-color9fb6cd广东省数学建模比赛--组长-优秀奖------------emspemsp------20215-20215font&#34;&gt;&lt;font color=9FB6CD&gt;广东省数学建模比赛&amp;ndash;组长 优秀奖                    2021.5-2021.5&lt;/font&gt;
 &lt;/h4&gt;&lt;p&gt;•	协调分工和制定项目框架。&lt;/p&gt;
 &lt;p&gt;•	收集各地区青少年身高体重的数据并进行整理和分析。&lt;/p&gt;
 &lt;p&gt;•	搭建回归模型预测不同地区的理想身高体重区间，并完成高质量的汇报论文。&lt;/p&gt;
-&lt;h4 id=&#34;大学生创新创业大赛总冠军--------------emspemsp-----------------------------20212-20212&#34;&gt;大学生创新创业大赛—总冠军                                             2021.2-2021.2
-&lt;/h4&gt;&lt;p&gt;•	对中学生学业辅导市场进行深度解读，发现体育科目细分赛道存在空白，进行深度调研后基于团队技术壁垒和需求痛点进行# App设计和初步实现。&lt;/p&gt;
+&lt;h4 id=&#34;font-color9fb6cd大学生创新创业大赛总冠军--------------emspemsp----------20212-20212font&#34;&gt;&lt;font color=9FB6CD&gt;大学生创新创业大赛—总冠军                          2021.2-2021.2&lt;/font&gt;
+&lt;/h4&gt;&lt;p&gt;•	对中学生学业辅导市场进行深度解读，发现体育科目细分赛道存在空白，进行深度调研后基于团队技术壁垒和需求痛点进行 App设计和初步实现。&lt;/p&gt;
 &lt;p&gt;•	撰写商业计划书，并进行产品路演，赢得了天使投资人的高度评价。&lt;/p&gt;
-&lt;h4 id=&#34;iea经济投资协会社长------------emspemsp---------------------------------------20244-至今&#34;&gt;IEA经济投资协会—社长                                                     2024.4-至今
-&lt;/h4&gt;&lt;p&gt;•	撰写行业研究报告并在学校平台发布。&lt;/p&gt;
-&lt;p&gt;•	组织多场金融投资分享讲座，促进社团成员之间的知识交流和技能提升。&lt;/p&gt;
+&lt;h2 id=&#34;font-color9fb6cd实习经历font&#34;&gt;&lt;font color=9FB6CD&gt;实习经历&lt;/font&gt;
+&lt;/h2&gt;&lt;h4 id=&#34;font-color9fb6cdxyz科技有限公司-市场部实习生-------------emspemsp--------20231-20239font&#34;&gt;&lt;font color=9FB6CD&gt;XYZ科技有限公司 市场部实习生                       2023.1-2023.9&lt;/font&gt;
+&lt;/h4&gt;&lt;p&gt;•	协助进行市场调研，运用Pandas, Numpy等工具进行数据整理和分析。&lt;/p&gt;
+&lt;p&gt;•	参与制定市场推广策略和计划，并协助组织线上和线下的市场活动。成功提高了产品在目标市场的知名度，通过调研为产品改进提供了关键的数据支持。&lt;/p&gt;
 </description>
         </item>
         

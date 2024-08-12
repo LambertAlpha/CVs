@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on LambertLin</title>
-        <link>https://example.org/categories/</link>
-        <description>Recent content in Categories on LambertLin</description>
+        <title>Categories on Jessica</title>
+        <link>https://lambertalpha.github.io/CVs/categories/</link>
+        <description>Recent content in Categories on Jessica</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-tw</language><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-cn</language><atom:link href="https://lambertalpha.github.io/CVs/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
